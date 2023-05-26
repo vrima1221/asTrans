@@ -4,7 +4,8 @@ import { Header } from './components/Header/Header';
 
 export const App = () => (
   <div className="starter">
-    React starter pack
-    <Header />
+    <div className="wrapper">
+      <Header />
+    </div>
   </div>
 );
