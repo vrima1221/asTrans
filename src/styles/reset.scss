@@ -13,3 +13,23 @@ p {
   margin: 0;
   padding: 0;
 }
+
+a {
+  text-decoration: none;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  text-transform: none;
+  cursor: pointer;
+}
+
+input {
+  border: none;
+}
+
+// input:focus {
+//   outline: none;
+// }
