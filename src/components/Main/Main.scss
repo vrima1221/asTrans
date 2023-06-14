@@ -1,0 +1,14 @@
+@import '../../styles/variables.scss';
+
+.main {
+  height: 1024px;
+  background-image: url('../../images/oil_station.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+  &__text {
+    color: $color-secondary;
+  }
+}
